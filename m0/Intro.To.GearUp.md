@@ -20,8 +20,16 @@ Step 2: If you are unfamiliar with the term "Implicit Bias," take time to read t
 Create a gist on Github and reflect (4-6 sentences) on the following questions:
 
 * What were your reflections from the video?
+
+  The video is a good reminder to rememebr that people a more similar than different and it is important to be concious of potential unfair judgment.
+
 * In what ways have you examined your implicit biases before coming to Turing?
+
+  Implicit bias is hard because much of it can be unconcious. I choose to approach it by maintaining principles on how I wish to treat people in general, and hold myself accountable to treat everyone equally within those principles. By establishing a plan on how you wish to interact, it enables an expectation and minimizes the potential of implicit bias.
+
 * What kind of software do you imagine building in the future? How will understanding biases (or avoiding understanding biases) impact your products?
+
+  I imagine building on software that will impact millions to billions of people and become usefull to their daily lives. Understanding these biases can help  me awknowledge that there are many types of people that will use these product and I have to account for all of them. It is unjust to create software for a select group of people where the others are disadvantaged.
 
 
 #### READ
